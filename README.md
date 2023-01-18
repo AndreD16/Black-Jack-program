@@ -1,1 +1,0 @@
-This is my coding project with scrimba on a blackjack web app.
